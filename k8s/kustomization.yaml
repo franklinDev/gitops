@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: franklinandrade27/hello-go
-  newTag: 55f36cb53adbe095908594b2a2a67c54317ce556
+  newTag: 78bdf7d9429635be1c959a8c6c65e30fa838b69b
